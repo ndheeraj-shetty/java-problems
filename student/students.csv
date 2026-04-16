@@ -1,0 +1,5 @@
+studentId,name,branch,marks1,marks2,marks3,marks4,marks5,percentage
+S001,John,CSE,80,85,90,75,88,83.60
+S003,Bob,ECE,60,65,70,70,75,68.00
+S004,Emma,MECH,75,80,85,70,75,77.00
+S005,Raj,CIVIL,68,72,74,70,75,71.80
